@@ -1,6 +1,6 @@
 # Gex is an iOS 14.7 jailbreak using CVE-2021-30807 IOMFB exploit
 
-## rest of this readme is from [jsherman212's exploit repo](https://github.com/jsherman212/iomfb-exploit/blob/main/README.md) and probably stuff that is about the exploit and not this jb
+## rest of this readme is from [jsherman212's exploit repo](https://github.com/jsherman212/iomfb-exploit/blob/main/README.md) and probably stuff that is about the exploit and not this jailbreak tool.
 
 To tune for A11 and below, use pongo to load xnuspy and build with
 `SAMPLING_MEMORY=1 make -B`. This will enable a test that gathers
